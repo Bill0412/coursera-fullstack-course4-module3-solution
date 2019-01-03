@@ -8,4 +8,14 @@
 
 #text {
     background-color: #80C6FF;
+    padding: 5px;
+}
+
+#text > h3 {
+    margin-bottom: 15px;
+}
+
+#header-nav .navbar-brand {
+    position: absolute;
+    left: 10px;
 }
