@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+
+#nav-list > li {
+    text-align: center;
+}
+
+#text {
+    background-color: #80C6FF;
+}
