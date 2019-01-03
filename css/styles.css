@@ -6,9 +6,19 @@
     text-align: center;
 }
 
-#text {
-    background-color: #80C6FF;
-    padding: 5px;
+div section {
+    margin: 10px;
+}
+#section-1{
+    background-color: #B3E5FF;
+}
+
+#section-2 {
+    background-color: #FFC7B3;
+}
+
+#section-3 {
+    background-color: #C3FF80;
 }
 
 #text > h3 {
